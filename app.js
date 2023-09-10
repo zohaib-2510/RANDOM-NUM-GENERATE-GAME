@@ -18,7 +18,7 @@ h2.style.color='red'
     else if(math>user){
         
         h2.innerHTML='YOUR ANSWER IS TOO LOW'
-h2.style.color='red'
+h2.style.color='#F78702'
 
     }
     again.addEventListener('click',function(){
